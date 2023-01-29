@@ -6,8 +6,14 @@
 
 在使用中遇到任何问题，请与作者联系或直接issue。
 
+### 如何使用
+1. 使用YAS获得json文件
+2. 将mona2artifact.json第5行的文件名改为YAS获得的json文件
+3. 将mona2artifact.json第6行的文件名改为需要输出的文件名
+4. 运行 ```python mona2artifact.py ```
+5. 将获得的新文件导入原魔计算器
 
-相关链接：
+### 相关链接
 莫娜占卜铺：https://mona-uranai.com/
 
 Yet Another Genshin Impact Scanner：https://github.com/wormtql/yas
